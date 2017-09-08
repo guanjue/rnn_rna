@@ -1,0 +1,12 @@
+CFU-E.rsem.1046.bed CFU-E.rsem.1087.bed
+CFU-Mk.rsem.1049.bed CFU-Mk.rsem.1050.bed
+CMP.rsem.1009.bed CMP.rsem.1010.bed
+ER4.rsem.985.bed ER4.rsem.986.bed
+G1E.rsem.983.bed G1E.rsem.984.bed
+GMP.rsem.1017.bed GMP.rsem.1018.bed
+LSK.rsem.1007.bed LSK.rsem.1063.bed
+MEP.rsem.1019.bed MEP.rsem.1064.bed
+Mono.rsem.1158.bed Mono.rsem.1208.bed Mono.rsem.1233.bed
+ery.rsem.1047.bed ery.rsem.1088.bed
+megs.rsem.1051.bed megs.rsem.1052.bed
+neutrophil.rsem.1156.bed neutrophil.rsem.1157.bed

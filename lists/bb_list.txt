@@ -1,0 +1,15 @@
+used_DNA_intervals.bcell.1.colored.bed
+used_DNA_intervals.cfue.2.colored.bed
+used_DNA_intervals.cmp.3.colored.bed
+used_DNA_intervals.er4.4.colored.bed
+used_DNA_intervals.ery.5.colored.bed
+used_DNA_intervals.g1e.6.colored.bed
+used_DNA_intervals.gmp.7.colored.bed
+used_DNA_intervals.lsk.9.colored.bed
+used_DNA_intervals.meg.10.colored.bed
+used_DNA_intervals.mep.11.colored.bed
+used_DNA_intervals.mono.12.colored.bed
+used_DNA_intervals.neutrophil.8.colored.bed
+used_DNA_intervals.nkcell.13.colored.bed
+used_DNA_intervals.tcd4.14.colored.bed
+used_DNA_intervals.tcd8.15.colored.bed

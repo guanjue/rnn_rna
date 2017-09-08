@@ -1,0 +1,15 @@
+1	b_spl
+2	cfuE_ad
+3	cmp
+4	er4
+5	ery_ad
+6	g1e
+7	gmp
+8	gra_bm
+9	lsk_bm
+10	meg
+11	mep
+12	mono_bm
+13	nk_spl
+14	t_cd4_spl
+15	t_cd8_spl
